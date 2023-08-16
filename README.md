@@ -1,4 +1,4 @@
-# konvertp
+# Konvert
 Public showcase for Konvert
 Convert & Calculate is an easy, stylish, and Smart app with tons of units that permit coverts in daily life. It is a metric conversion calculator with the capacity of Unit conversion qualities such as rates of exchange, gram converter, measurement converter, mph calculator, hectare, and currency converter that covert all currencies like pounds, dollars, euros, Rupees, etc.🌍💰
 
